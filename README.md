@@ -1,3 +1,3 @@
 # this is test project 1
 
-# Laman Web Pribadi @ Perosonal.
+# Laman Web Pribadi @ Personal.
